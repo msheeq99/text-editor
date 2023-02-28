@@ -17,4 +17,11 @@ This is a text editor application created in the UW Coding Bootcamp. The text ed
 
 ## Usage:
 
-Link to Heroku Website: 
+Link to Heroku Website: https://ms-texteditor.herokuapp.com/
+
+
+## Github link
+https://github.com/msheeq99/text-editor/
+
+
+
